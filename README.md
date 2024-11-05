@@ -1,6 +1,6 @@
 # NameHint
 
-![PyPI](https://img.shields.io/pypi/v/namehint)
+[![PyPI](https://img.shields.io/pypi/v/namehint)](https://pypi.org/project/namehint/)
 
 **NameHint**는 한글 단어의 영어 동의어를 제공하여 영어 변수나 함수 이름을 짓는 데 도움을 주는 CLI 도구입니다.  
 "아, 그거 영어로 뭐였지?" 라는 생각이 들 때 유용하게 사용할 수 있습니다.
