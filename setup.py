@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='namehint',
-    version='1.0.2',
+    version='1.0.0',
     description="A tool that provides English synonyms for Korean words to assist in English naming.",
     author="gongboo",
     author_email="gongboolearn@gmail.com",
