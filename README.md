@@ -1,5 +1,7 @@
 # NameHint
 
+![PyPI](https://img.shields.io/pypi/v/namehint)
+
 **NameHint**는 한글 단어의 영어 동의어를 제공하여 영어 변수나 함수 이름을 짓는 데 도움을 주는 CLI 도구입니다.  
 "아, 그거 영어로 뭐였지?" 라는 생각이 들 때 유용하게 사용할 수 있습니다.
 
@@ -54,3 +56,7 @@ namehint school
 다음과 같이 출력
 
 > 'school' 해당 단어를 찾을 수 없습니다.
+
+## License
+
+이 프로젝트는 [크리에이티브 커먼즈 저작자 표시-동일조건변경허락 2.0 대한민국 라이선스](https://creativecommons.org/licenses/by-sa/2.0/kr/) 하에 배포됩니다.
