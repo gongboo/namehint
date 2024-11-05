@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution/build directories
+dist/
+build/
+*.egg-info/
+
+# Byte-compiled and virtual environment files
+*.egg
+.eggs/
+*.log
+*.pot
+*.pyc
+*.pyd
+*.pyo
+*.pyd
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
